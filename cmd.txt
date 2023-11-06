@@ -1,0 +1,3 @@
+python -m ensurepip --default-pip
+
+pip install watchdog
